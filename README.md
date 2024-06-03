@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=f59e0b&multiline=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!+✨" alt="welcome">
 
-    https://github.com/GrowinFlow
+    https://github.com/hy-abdulrahman2
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&weight=700&pause=1000&color=e11d48&multiline=true&random=true&width=435&lines=My+Skills+and+Projects:" alt="Skills"> 
 </div>
@@ -72,15 +72,15 @@
 
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GrowinFlow&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=f59e0b&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hy-abdulrahman2&show_icons=true&title_color=e11d48&icon_color=e11d48&text_color=f59e0b&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <br>
   <a href="#">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowinFlow&date_format=j%20M%5B%20Y%5D&background=ffffff00&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=f59e0b&currStreakNum=f59e0b&sideNums=f59e0b&currStreakLabel=e11d48&sideLabels=e11d48&dates=f59e0b&excludeDaysLabel=e11d48&hide_border=true"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hy-abdulrahman2&date_format=j%20M%5B%20Y%5D&background=ffffff00&border=EBDBDF00&stroke=e11d48&ring=e11d48&fire=f59e0b&currStreakNum=f59e0b&sideNums=f59e0b&currStreakLabel=e11d48&sideLabels=e11d48&dates=f59e0b&excludeDaysLabel=e11d48&hide_border=true"/>
   </a>
   <br/> 
   <a href="#">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowinFlow&layout=compact&title_color=e11d48&text_color=f59e0b&bg_color=ffffff00&hide_border=true"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy-abdulrahman2&layout=compact&title_color=e11d48&text_color=f59e0b&bg_color=ffffff00&hide_border=true"/>
   </a>
   
 
